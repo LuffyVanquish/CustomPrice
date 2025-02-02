@@ -9,13 +9,6 @@ using CSync.Lib;
 using HarmonyLib;
 
 
-// TODO
-// ERREUR INDEX PLAYER askip >5 ~~
-// PRIX VEHICULE X
-// NOT IN STOCK ??
-
-
-
 namespace CustomPrice;
 
 
