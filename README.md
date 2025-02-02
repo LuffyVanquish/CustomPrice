@@ -1,4 +1,4 @@
-![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/luffyvanquish/CustomPrice?logo=thunderstore&color=%2323FFB0)
+![GitHub Release](https://img.shields.io/github/v/release/luffyvanquish/CustomPrice)![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/luffyvanquish/CustomPrice?logo=thunderstore&color=%2323FFB0)
 
 # CustomPrice
 ### CustomPrice is a mod that gives you the possibility to customise all item's price (the mods items also include... normally) except ship's upgrades and decorations at the moment.
